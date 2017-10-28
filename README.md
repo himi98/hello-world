@@ -1,6 +1,6 @@
 # hello-world
-#include<iostream.h>
+#include<stdio.h>
 int main()
-{ cout<<"HELLO WORLD!!"; 
+{ printf("HELLO WORLD!!"); 
   return 0;
 }
