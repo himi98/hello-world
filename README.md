@@ -1,7 +1,7 @@
 # hello-world
 #include<stdio.h>
 #include<stblib.h>
-int main()
+void main()
 { printf("HELLO WORLD!!"); 
-  return 0;
+  getch();
 }
